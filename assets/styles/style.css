@@ -1,0 +1,20 @@
+#Bg {
+    background-image: url('/assets/img/bg.png');
+    
+    background-repeat: no-repeat;
+    background-size: contain; 
+     /* Center the background image */
+    background-attachment: fixed; /* Fixed background image (doesn't scroll with content) */
+    background-color: #ffffff; /* Background color in case the image doesn't fully cover */
+    min-height: 100vh;
+}
+.Rectangle-603 {
+    width: 384px;
+    height: 34px;
+    margin: 0 0 35px;
+    padding: 2px 91px 2px 104px;
+    border-radius: 15px;
+    box-shadow: 2px 4px 6px 0 rgba(79, 79, 79, 0.15);
+    border: solid 1px #ccc;
+    background-color: #fffdfd;
+  }
